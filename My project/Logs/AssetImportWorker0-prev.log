@@ -1,0 +1,2564 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.25f1 (9b9180224418) revision 10195328'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22000) 64bit Professional' Language: 'tr' Physical Memory: 8064 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.25f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/melih/Desktop/Dersler/Erciyes 3D/My project
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+55929
+Successfully changed project path to: C:/Users/melih/Desktop/Dersler/Erciyes 3D/My project
+C:/Users/melih/Desktop/Dersler/Erciyes 3D/My project
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 98.42 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.25f1 (9b9180224418)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/melih/Desktop/Dersler/Erciyes 3D/My project/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c8d)
+    Vendor:   
+    VRAM:     4019 MB
+    Driver:   30.0.14.9729
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56684
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.25f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001422 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 60.89 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.685 seconds
+Domain Reload Profiling:
+	ReloadAssembly (686ms)
+		BeginReloadAssembly (67ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (2ms)
+		EndReloadAssembly (546ms)
+			LoadAssemblies (63ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (162ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (187ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (61ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (78ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003610 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.232 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1233ms)
+		BeginReloadAssembly (132ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (18ms)
+		EndReloadAssembly (1027ms)
+			LoadAssemblies (101ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (333ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (51ms)
+			SetupLoadedEditorAssemblies (431ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (82ms)
+				ProcessInitializeOnLoadAttributes (331ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.09 seconds
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 129.0 MB.
+System memory in use after: 128.6 MB.
+
+Unloading 85 unused Assets to reduce memory usage. Loaded Objects now: 2559.
+Total: 3.563700 ms (FindLiveObjects: 0.212700 ms CreateObjectMapping: 0.086200 ms MarkObjects: 2.885100 ms  DeleteObjects: 0.378600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Objeler/New Objeler/Materials/GeForce3090RTX-Stacy_Skin.mat
+  artifactKey: Guid(3f0d96e0575f5fc45a8c77e20adbb6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/GeForce3090RTX-Stacy_Skin.mat using Guid(3f0d96e0575f5fc45a8c77e20adbb6bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2a96f22596e1221be4cbbf485463711') in 0.234131 seconds 
+  Import took 0.243798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000614 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Umbrella-silber RAL 9006.mat
+  artifactKey: Guid(071e1743ed535eb4f803295fe6c9fcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Umbrella-silber RAL 9006.mat using Guid(071e1743ed535eb4f803295fe6c9fcb5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88f7f7f80250a6b226c63381b30a79c4') in 0.037221 seconds 
+  Import took 0.046602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000370 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Metal_Aluminum_Anodized].mat
+  artifactKey: Guid(f728146c06f0d8a4e8c180443eaaeae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Metal_Aluminum_Anodized].mat using Guid(f728146c06f0d8a4e8c180443eaaeae5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28cb7836dbf67ec30b5e1de18a7fe5a') in 0.037375 seconds 
+  Import took 0.045206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Tinted].mat
+  artifactKey: Guid(88e6b8f64c0d6694cb95deeb109651cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Tinted].mat using Guid(88e6b8f64c0d6694cb95deeb109651cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32cba017ed6c3f00232cea92488ab3e9') in 0.047497 seconds 
+  Import took 0.055116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Paintings-frase ggamer.mat
+  artifactKey: Guid(d0eba68255f9c09489100e0ed7ca9212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Paintings-frase ggamer.mat using Guid(d0eba68255f9c09489100e0ed7ca9212) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '704510cb227e1f889063033e41e606b2') in 0.028377 seconds 
+  Import took 0.034696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Blue].mat
+  artifactKey: Guid(8a35e9aaeadb744458e90ceec4782a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Blue].mat using Guid(8a35e9aaeadb744458e90ceec4782a4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149b225828afe5bc60b916d5cca9f4ed') in 0.023404 seconds 
+  Import took 0.028555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Blue plastic Water_dispenser.mat
+  artifactKey: Guid(d00e50dac666693469eaef18feda3c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Blue plastic Water_dispenser.mat using Guid(d00e50dac666693469eaef18feda3c5a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '804f5cbd815ae4f895520629ddee85ff') in 0.027476 seconds 
+  Import took 0.032631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000165 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Aluminum].mat
+  artifactKey: Guid(33f771c48196cee4e9651af2792a344c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Aluminum].mat using Guid(33f771c48196cee4e9651af2792a344c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd189fa8c5c1a1db523deaec1a10c5b5') in 0.025930 seconds 
+  Import took 0.032237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Tinted]1.mat
+  artifactKey: Guid(6d37f541a21578b49a9c0a8aae4b592a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent_Glass_Tinted]1.mat using Guid(6d37f541a21578b49a9c0a8aae4b592a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e62710c930d01b5527b43dfc61dd3be') in 0.026374 seconds 
+  Import took 0.031583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Blue].mat
+  artifactKey: Guid(be5bd9a2db55cb94e83fc79c87a9855f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Blue].mat using Guid(be5bd9a2db55cb94e83fc79c87a9855f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bbf3235118afcaaf08b5ae4e3745bc6') in 0.024216 seconds 
+  Import took 0.030174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Color_000].mat
+  artifactKey: Guid(fbe9677636abb464b993133811a654fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Color_000].mat using Guid(fbe9677636abb464b993133811a654fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '466df4f0ca20a9577ae82d0cd06f73aa') in 0.024958 seconds 
+  Import took 0.032631 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Umbrella-SA 314 154 schwarz.mat
+  artifactKey: Guid(c7bd3ed5b066b47469973dae3c79ac8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Umbrella-SA 314 154 schwarz.mat using Guid(c7bd3ed5b066b47469973dae3c79ac8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddbaca0c071ac53604bceaf8d259fa8c') in 0.029451 seconds 
+  Import took 0.035289 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-[Color M02].mat
+  artifactKey: Guid(027d8b478d652614d833decf595ef4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-[Color M02].mat using Guid(027d8b478d652614d833decf595ef4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df592ec1646aaf10085ab2a39f1bd90') in 0.028588 seconds 
+  Import took 0.033690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Paintings-joystik preto.mat
+  artifactKey: Guid(0bf9d9ea30f6d8b46baa0d990f2b175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Paintings-joystik preto.mat using Guid(0bf9d9ea30f6d8b46baa0d990f2b175a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c1f0ff770703290da98a347d5ceda1f') in 0.029617 seconds 
+  Import took 0.035809 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Paintings-[Color_008].mat
+  artifactKey: Guid(9d86f15e04109d54db1d4f1071cf7f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Paintings-[Color_008].mat using Guid(9d86f15e04109d54db1d4f1071cf7f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cebebab94a0bd35776e7103744c913ef') in 0.027537 seconds 
+  Import took 0.032790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000327 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-PDM White plastic Water_dispenser.mat
+  artifactKey: Guid(c9231c57424064944a37956aeb5ae86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-PDM White plastic Water_dispenser.mat using Guid(c9231c57424064944a37956aeb5ae86f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a63100057f5bd6a0a11e5ab43506025') in 0.028443 seconds 
+  Import took 0.035675 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-_defaultMat.mat
+  artifactKey: Guid(1f3352c468fa4c34b8beb53328a9e1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-_defaultMat.mat using Guid(1f3352c468fa4c34b8beb53328a9e1fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5165eb8095c2b0a2d58336a7b16ce3be') in 0.026253 seconds 
+  Import took 0.031915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Plant-[Color_C09].mat
+  artifactKey: Guid(7592cd1e37f7f59459df70c5bd8a1695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Plant-[Color_C09].mat using Guid(7592cd1e37f7f59459df70c5bd8a1695) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8da892eb72f99a9d11639d3084e7a79') in 0.040793 seconds 
+  Import took 0.049061 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000338 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_001].mat
+  artifactKey: Guid(f55838fed25816d40a04f3049ec474ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_001].mat using Guid(f55838fed25816d40a04f3049ec474ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd1e5cc1bf627cd1d02fc63a9c57e83e') in 0.055717 seconds 
+  Import took 0.068971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000630 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Umbrella-[0128_White].mat
+  artifactKey: Guid(37fca930f4b24e844a0243f591a23432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Umbrella-[0128_White].mat using Guid(37fca930f4b24e844a0243f591a23432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2b7821815ea549376412534bd08fb24') in 0.050853 seconds 
+  Import took 0.066418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Color_007].mat
+  artifactKey: Guid(c4aa5c4747c1da5449e10444af370c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Color_007].mat using Guid(c4aa5c4747c1da5449e10444af370c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0df5613549ca0c2af3e30821dbcb2a11') in 0.067456 seconds 
+  Import took 0.079745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-_defaultMat.mat
+  artifactKey: Guid(2f0b0d504b5334f439941e0d4e200efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-_defaultMat.mat using Guid(2f0b0d504b5334f439941e0d4e200efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '161a8d234d0b73667b34ae8e4a28619a') in 0.034417 seconds 
+  Import took 0.046107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Tinted].mat
+  artifactKey: Guid(97f47277cefb28b43a210cf5c58e7193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Tinted].mat using Guid(97f47277cefb28b43a210cf5c58e7193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bc27c7a010cf04c9689a71615bd32e') in 0.028761 seconds 
+  Import took 0.035435 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Paintings-game over preto.mat
+  artifactKey: Guid(c0105831707f270468ee3eb9dc9cf1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Paintings-game over preto.mat using Guid(c0105831707f270468ee3eb9dc9cf1c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '949b8d480c25093f4209ac5e3cee3fd8') in 0.023863 seconds 
+  Import took 0.028723 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Plant-[Textile_Leaves_Green].mat
+  artifactKey: Guid(9249dc953ba52c140866fd74e9499633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Plant-[Textile_Leaves_Green].mat using Guid(9249dc953ba52c140866fd74e9499633) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57c38904efc866b483955971237d5362') in 0.023028 seconds 
+  Import took 0.028525 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod TurnStile Arms-[Aluminum].mat
+  artifactKey: Guid(7a48378c0bae83e458d01444f9f4995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod TurnStile Arms-[Aluminum].mat using Guid(7a48378c0bae83e458d01444f9f4995f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abd30959d04faa7b74cb8986bb4087f4') in 0.023037 seconds 
+  Import took 0.028183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Metal_Rough].mat
+  artifactKey: Guid(8b953e73a40a2c84f98d3362b49548bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Metal_Rough].mat using Guid(8b953e73a40a2c84f98d3362b49548bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c96f137f441f025fd911c3aa06552df') in 0.022180 seconds 
+  Import took 0.027141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Gray].mat
+  artifactKey: Guid(e062c47b0bc8eaf458e17bf10b620827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Translucent_Glass_Gray].mat using Guid(e062c47b0bc8eaf458e17bf10b620827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b10403420d5b613f86512370cfa34820') in 0.024526 seconds 
+  Import took 0.031176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Aluminum].mat
+  artifactKey: Guid(46b868b175c90264c96885c42f44ee4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Aluminum].mat using Guid(46b868b175c90264c96885c42f44ee4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246a43a3fd853927c0a2104f58f152d2') in 0.022903 seconds 
+  Import took 0.028068 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Plastic Water_dispenser1.mat
+  artifactKey: Guid(2b6cb67994e6c29458bc36462005ba65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Plastic Water_dispenser1.mat using Guid(2b6cb67994e6c29458bc36462005ba65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '467b859bec9410e17f16e63550b00cab') in 0.023173 seconds 
+  Import took 0.028341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Umbrella-[0021_DarkRed].mat
+  artifactKey: Guid(8b94c3abf87e7bc4899226dbfcb5bc8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Umbrella-[0021_DarkRed].mat using Guid(8b94c3abf87e7bc4899226dbfcb5bc8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aea82c25109de871a5b6260d19018d0d') in 0.021514 seconds 
+  Import took 0.026078 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Grey Water_dispenser.mat
+  artifactKey: Guid(d63547be6c785a742a0d640a2f623886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Grey Water_dispenser.mat using Guid(d63547be6c785a742a0d640a2f623886) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256511484f287b644d732012c6b55956') in 0.024399 seconds 
+  Import took 0.029199 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Red plastic Water_dispenser.mat
+  artifactKey: Guid(cb228bfc5c5cdb7438ac5e1741bc4c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Su Sebili-PDM Red plastic Water_dispenser.mat using Guid(cb228bfc5c5cdb7438ac5e1741bc4c95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0787922b0e6cc7ec47fad6e815a06b7') in 0.026488 seconds 
+  Import took 0.032411 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_006].mat
+  artifactKey: Guid(1116318c74b133649985979bc15bf31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_006].mat using Guid(1116318c74b133649985979bc15bf31f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3182f898e4f4864df32b07229aaf0356') in 0.026083 seconds 
+  Import took 0.033471 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/Objeler/New Objeler/Materials/TrashBin-[0136_Charcoal].mat
+  artifactKey: Guid(bd34c2065a0f93b42a4fc6b82161b48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/TrashBin-[0136_Charcoal].mat using Guid(bd34c2065a0f93b42a4fc6b82161b48f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36d0fc2e92079ac240d24ba04642911') in 0.023523 seconds 
+  Import took 0.028326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent Glass Gray].mat
+  artifactKey: Guid(9837a53874afa1442b10d954fffb3199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Yemekhanetabildot-[Translucent Glass Gray].mat using Guid(9837a53874afa1442b10d954fffb3199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6ee9e755b433da565e8120181bd02a6a') in 0.028776 seconds 
+  Import took 0.036224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_000].mat
+  artifactKey: Guid(62dd7622e34bbd24a887b94af1ea9a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Tripod Turnstile-[Color_000].mat using Guid(62dd7622e34bbd24a887b94af1ea9a03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '855f9d08f3237cb10e1e9aaf40ee261f') in 0.029601 seconds 
+  Import took 0.035484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Paintings-HELLO BIG GREAT WORLD.mat
+  artifactKey: Guid(bb9dfba52ec8e194ba4497e6ecd428c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Paintings-HELLO BIG GREAT WORLD.mat using Guid(bb9dfba52ec8e194ba4497e6ecd428c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce741df4131dfb9f6b2b6eacda51127d') in 0.029116 seconds 
+  Import took 0.034676 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Objeler/New Objeler/Materials/TrashBin-[Color_009].mat
+  artifactKey: Guid(e1337bd8f65554f4e9aa955a7c2fd3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/TrashBin-[Color_009].mat using Guid(e1337bd8f65554f4e9aa955a7c2fd3b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '43649cee4a6d910a2e8faf3f0a6d8e03') in 0.025552 seconds 
+  Import took 0.032633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Objeler/New Objeler/Materials/TrashBin-[Color_002].mat
+  artifactKey: Guid(e074d8eea3a42f541b65fc60a2f297b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/TrashBin-[Color_002].mat using Guid(e074d8eea3a42f541b65fc60a2f297b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3da4fc0b785050a48264c4d0151ff4d') in 0.022695 seconds 
+  Import took 0.028494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Objeler/New Objeler/Materials/TrashBin-[Color_006].mat
+  artifactKey: Guid(4902e4e570005ef42aad59ffa9e97f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/TrashBin-[Color_006].mat using Guid(4902e4e570005ef42aad59ffa9e97f43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e55e077435474241fbc16ee2cc468c7f') in 0.022357 seconds 
+  Import took 0.027806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Plant-[Color_C01].mat
+  artifactKey: Guid(62405e2d7d5d52742847a0d282e574c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Plant-[Color_C01].mat using Guid(62405e2d7d5d52742847a0d282e574c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2a45e883f6da13dff4a670965419716') in 0.023225 seconds 
+  Import took 0.028692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.718509 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials
+  artifactKey: Guid(58a9c4bc538380f40acdd56542ee311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials using Guid(58a9c4bc538380f40acdd56542ee311f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c567cab2b49ad2471082782847d697a') in 0.009980 seconds 
+  Import took 0.013937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.131178 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod TurnStile Arms-[Aluminum].mat
+  artifactKey: Guid(20ab9c15cf172434d997a9bd20d8b853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod TurnStile Arms-[Aluminum].mat using Guid(20ab9c15cf172434d997a9bd20d8b853) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b9f183884a5a22053e4030fe2fdb18b') in 0.016978 seconds 
+  Import took 0.021927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_006].mat
+  artifactKey: Guid(a0abd777fcc5ca947ae56a351629d1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_006].mat using Guid(a0abd777fcc5ca947ae56a351629d1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78123ab145dee5251bf374455fbde829') in 0.011297 seconds 
+  Import took 0.016775 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Gray].mat
+  artifactKey: Guid(7a3871dfd7bc4d24eb4e8eb0b95bcccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Gray].mat using Guid(7a3871dfd7bc4d24eb4e8eb0b95bcccf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab906fba548e53dc9dc7654fbb2acf08') in 0.011052 seconds 
+  Import took 0.017237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000343 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_000].mat
+  artifactKey: Guid(f501ee371fb1d8a4db933ee43e960c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_000].mat using Guid(f501ee371fb1d8a4db933ee43e960c38) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06e2cfd77c28f24892ddbc89a28ea696') in 0.011906 seconds 
+  Import took 0.018067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Tinted].mat
+  artifactKey: Guid(a95a32647f2e0bf419b877b40e487a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Tinted].mat using Guid(a95a32647f2e0bf419b877b40e487a04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc87170b32ddfe5d0b249f61950180f4') in 0.023327 seconds 
+  Import took 0.029334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000302 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Aluminum].mat
+  artifactKey: Guid(b592e201f1dd10c4cb01b6b3cf8e2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Aluminum].mat using Guid(b592e201f1dd10c4cb01b6b3cf8e2d01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '985015cbe68a4f079e7ede0d44e5673e') in 0.022639 seconds 
+  Import took 0.027779 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_001].mat
+  artifactKey: Guid(85c8858b855cb7e4b8357a70cc61067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Color_001].mat using Guid(85c8858b855cb7e4b8357a70cc61067e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddb8fe4c64585e86e92bcf1b2a67046e') in 0.011300 seconds 
+  Import took 0.016597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Blue].mat
+  artifactKey: Guid(f94734bdb5c23574abefc101bda28296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Materials/Tripod Turnstile-[Translucent_Glass_Blue].mat using Guid(f94734bdb5c23574abefc101bda28296) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa8390fc4105037061b69f65e25b362') in 0.019589 seconds 
+  Import took 0.025016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.264100 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Textures
+  artifactKey: Guid(68fe8509070b3104cb64041f76a8a58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Textures using Guid(68fe8509070b3104cb64041f76a8a58e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16e61c9b96c1adb59427e9155d60b1f1') in 0.008962 seconds 
+  Import took 0.015283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083711 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Textures/Aluminum.jpg
+  artifactKey: Guid(a88f8b0c6d45f3d48a297c1d73c3f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Textures/Aluminum.jpg using Guid(a88f8b0c6d45f3d48a297c1d73c3f8d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7a08138a089acf3fafae58ab61faac7') in 0.079281 seconds 
+  Import took 0.084166 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Objeler/New Objeler/Tripod Turnstile/Textures/Translucent_Glass_Tinted_extractedTex7377.jpg
+  artifactKey: Guid(c7c246b052b28d44ba27c91632aec1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Tripod Turnstile/Textures/Translucent_Glass_Tinted_extractedTex7377.jpg using Guid(c7c246b052b28d44ba27c91632aec1dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0e74fd04e78699b2bf7942c7d927765') in 0.013147 seconds 
+  Import took 0.018345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 76.875471 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials
+  artifactKey: Guid(36f09392f68c53e458de36c15315843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials using Guid(36f09392f68c53e458de36c15315843d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19b86baab7447e16d2ecd00df4810a69') in 0.004251 seconds 
+  Import took 0.010615 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119990 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-logo corsair.mat
+  artifactKey: Guid(7f02138c0d2eb91418a2e696d263ae33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-logo corsair.mat using Guid(7f02138c0d2eb91418a2e696d263ae33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea1b9d21fdd1d14133a4d8b378640eff') in 0.023012 seconds 
+  Import took 0.029173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-82ff72af-d1c9-42b2-9486-0d0915f2f674.mat
+  artifactKey: Guid(e7efb6f1fc789d748accfe83117711dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-82ff72af-d1c9-42b2-9486-0d0915f2f674.mat using Guid(e7efb6f1fc789d748accfe83117711dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a732f98e0e64d28d23f6f29e14763ca') in 0.027130 seconds 
+  Import took 0.032024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_6.mat
+  artifactKey: Guid(936bf809a33d7094a96d1be3c12cb694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_6.mat using Guid(936bf809a33d7094a96d1be3c12cb694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b56be0c73b9aa7e50d4be7577954102') in 0.030106 seconds 
+  Import took 0.034948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-NeutronGTX480.mat
+  artifactKey: Guid(c15bc0cf11a8a4740b989b3571f6c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-NeutronGTX480.mat using Guid(c15bc0cf11a8a4740b989b3571f6c308) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68c8f2002a123dc9c38aab4377a93bd0') in 0.025140 seconds 
+  Import took 0.029492 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Color M08]1.mat
+  artifactKey: Guid(f9cff2d5c5fa2ed4590245677d9585d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Color M08]1.mat using Guid(f9cff2d5c5fa2ed4590245677d9585d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c7d1b0047610b26b419c09e3a88410c') in 0.021976 seconds 
+  Import took 0.027487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000159 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-SATA.mat
+  artifactKey: Guid(94a9cbfb9f0c2784d95a67804e8f65e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-SATA.mat using Guid(94a9cbfb9f0c2784d95a67804e8f65e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f9a4b8dac0dd73c0ac38b1e2700b7ee') in 0.023782 seconds 
+  Import took 0.028878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0136_Charcoal]1.mat
+  artifactKey: Guid(6e6e3a8ef1105524787a5de03ae42a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0136_Charcoal]1.mat using Guid(6e6e3a8ef1105524787a5de03ae42a85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae0bbd58e2fe4ba3f49a2ad9bfca05cb') in 0.020966 seconds 
+  Import took 0.025011 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0136_Charcoal]2.mat
+  artifactKey: Guid(381dcb8df7a2c7844a4a8460b28e111b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0136_Charcoal]2.mat using Guid(381dcb8df7a2c7844a4a8460b28e111b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9727a0fbe8a8cbcace603921ea328475') in 0.021812 seconds 
+  Import took 0.026611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-PCB.mat
+  artifactKey: Guid(8787182c4b8a72c4e874129612dcb811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/ComputerCase-PCB.mat using Guid(8787182c4b8a72c4e874129612dcb811) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e409fe2e1b0528bab6cf118f8d8d59ad') in 0.021921 seconds 
+  Import took 0.026790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_5.mat
+  artifactKey: Guid(abba2f411eb42a24e988bcecfca11f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_5.mat using Guid(abba2f411eb42a24e988bcecfca11f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd932a5742fe43d4e7300a352742b6794') in 0.023406 seconds 
+  Import took 0.028731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0137_Black]2.mat
+  artifactKey: Guid(e1dd5fd110e5bdc4cbac5e78f59bf778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[0137_Black]2.mat using Guid(e1dd5fd110e5bdc4cbac5e78f59bf778) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb62f4143ec8bd98963904f5879a81b') in 0.021069 seconds 
+  Import took 0.025612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-2776e18bf2ab2119b9e1d8a2bf1e6ba1.mat
+  artifactKey: Guid(47a8a9d3004e483498a8110733184f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-2776e18bf2ab2119b9e1d8a2bf1e6ba1.mat using Guid(47a8a9d3004e483498a8110733184f65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '32f340b078326642ad6799b2b74e0c20') in 0.023524 seconds 
+  Import took 0.028253 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Metal_Rough].mat
+  artifactKey: Guid(d99e9744a12fc3843ae07e9ac679d888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Metal_Rough].mat using Guid(d99e9744a12fc3843ae07e9ac679d888) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3fac6246dd26550532987354ca361d34') in 0.024317 seconds 
+  Import took 0.029086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Translucent_Glass_Gray].mat
+  artifactKey: Guid(13685558d32f7a6419231f433c689072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-[Translucent_Glass_Gray].mat using Guid(13685558d32f7a6419231f433c689072) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17e1bd43d415c6373eb75f30b30fcd85') in 0.023240 seconds 
+  Import took 0.028362 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.008738 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.36 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.549 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1550ms)
+		BeginReloadAssembly (159ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (51ms)
+		EndReloadAssembly (1299ms)
+			LoadAssemblies (129ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (475ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (72ms)
+			SetupLoadedEditorAssemblies (470ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (115ms)
+				ProcessInitializeOnLoadAttributes (327ms)
+				ProcessInitializeOnLoadMethodAttributes (14ms)
+				AfterProcessingInitializeOnLoad (5ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2036 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.5 MB.
+System memory in use after: 126.1 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2602.
+Total: 5.299400 ms (FindLiveObjects: 0.307100 ms CreateObjectMapping: 0.125800 ms MarkObjects: 3.708900 ms  DeleteObjects: 1.155900 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 1958.418641 seconds.
+  path: Assets/Objeler/New Objeler/Materials/1.mat
+  artifactKey: Guid(101c73d0ebbe0014bb7b95e77d058c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/1.mat using Guid(101c73d0ebbe0014bb7b95e77d058c89) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4296c35984efa9b16b0c1519048bde3e') in 0.069153 seconds 
+  Import took 0.073714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.726836 seconds.
+  path: Assets/Objeler/New Objeler/Materials/2.mat
+  artifactKey: Guid(6f9f187e965d0f9489ce6d3633b0d6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/2.mat using Guid(6f9f187e965d0f9489ce6d3633b0d6c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78acbb2a350d626cb1d7f000f792a8da') in 0.014127 seconds 
+  Import took 0.018869 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.210653 seconds.
+  path: Assets/Objeler/New Objeler/Materials/3.mat
+  artifactKey: Guid(95bdda06225e3e94bb4a6004331ad493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/3.mat using Guid(95bdda06225e3e94bb4a6004331ad493) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e03b6001fdecc06f72495d094e3be75') in 0.015161 seconds 
+  Import took 0.020705 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.110528 seconds.
+  path: Assets/Objeler/New Objeler/Materials/4.mat
+  artifactKey: Guid(2dcc5eb3483111747b719bd15d05ad30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/4.mat using Guid(2dcc5eb3483111747b719bd15d05ad30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512471581b1439094bb38e2b3c34dbb4') in 0.016218 seconds 
+  Import took 0.021277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.876538 seconds.
+  path: Assets/Objeler/New Objeler/Materials/5.mat
+  artifactKey: Guid(aaded92dea5fdb14cbca4428fa3f6aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/5.mat using Guid(aaded92dea5fdb14cbca4428fa3f6aaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7433dc49dff9c628d7a7ee0b0dba571') in 0.013138 seconds 
+  Import took 0.017907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.810597 seconds.
+  path: Assets/Objeler/New Objeler/Materials/6.mat
+  artifactKey: Guid(bb253c88ca5fc4949ac09020cf83c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/6.mat using Guid(bb253c88ca5fc4949ac09020cf83c233) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad3f6a7571b9e954e18c736ec0f5fd76') in 0.016950 seconds 
+  Import took 0.023180 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 69.390610 seconds.
+  path: Assets/Objeler/New Objeler/Materials/Mac.mat
+  artifactKey: Guid(59706d559129b68419ed0b3ef79af340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/Materials/Mac.mat using Guid(59706d559129b68419ed0b3ef79af340) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b72f8264c0a614959053aa84921d3b20') in 0.026001 seconds 
+  Import took 0.031110 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.892536 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials
+  artifactKey: Guid(6b27c035e443784458d3cb968a911803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials using Guid(6b27c035e443784458d3cb968a911803) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e8c7ad035b18095debe4ed53ae994b3') in 0.014586 seconds 
+  Import took 0.022524 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.154421 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/c6768015a0dc65b7f3f4e0e23ff12d09.mat
+  artifactKey: Guid(9b753b92e4a921644ad6811b88676e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/c6768015a0dc65b7f3f4e0e23ff12d09.mat using Guid(9b753b92e4a921644ad6811b88676e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b875df2f9574ee75a5615af596cc1c1') in 0.020115 seconds 
+  Import took 0.025027 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000311 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iGold-Plated.mat
+  artifactKey: Guid(37b64e58855aabb438a3ebb99b1ccbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iGold-Plated.mat using Guid(37b64e58855aabb438a3ebb99b1ccbfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d6dd29242d4cc1c6e6cd6e6a37178ac') in 0.022416 seconds 
+  Import took 0.026975 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor0081.mat
+  artifactKey: Guid(fe9f66a37fdf8b54cac234ecf302e57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor0081.mat using Guid(fe9f66a37fdf8b54cac234ecf302e57b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a3926b750d187928fd2f62021775f68') in 0.020644 seconds 
+  Import took 0.025874 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor009.mat
+  artifactKey: Guid(ceafdfeee58d9c64085fbd44cc0bc159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor009.mat using Guid(ceafdfeee58d9c64085fbd44cc0bc159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22d277402436b76214849b6f54c901fe') in 0.021863 seconds 
+  Import took 0.027606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/playupnomaterial.mat
+  artifactKey: Guid(379ff61c65ee80f458faeb5b0f134ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/playupnomaterial.mat using Guid(379ff61c65ee80f458faeb5b0f134ec6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0facf32c5b0c4cc31f3e728715b51c6b') in 0.021336 seconds 
+  Import took 0.025825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDC0137Black1.mat
+  artifactKey: Guid(19a1ac7266e562d40a5fa10a7f749481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDC0137Black1.mat using Guid(19a1ac7266e562d40a5fa10a7f749481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da2cb85d58de1c701b6de444fd5f47c') in 0.023434 seconds 
+  Import took 0.028317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDClogocorsair.mat
+  artifactKey: Guid(5f3c7f045f6b55341ac81a383c81938c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDClogocorsair.mat using Guid(5f3c7f045f6b55341ac81a383c81938c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c146980e5f3fb7023bea2d49f2d6584a') in 0.024606 seconds 
+  Import took 0.029893 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCTranslucentGlassGray.mat
+  artifactKey: Guid(cf5ec64ae9b9c404cadfd286b9d88869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCTranslucentGlassGray.mat using Guid(cf5ec64ae9b9c404cadfd286b9d88869) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6100f2aafd98f6b92d0c78dfa1c98786') in 0.022673 seconds 
+  Import took 0.027017 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-playupnomaterial.mat
+  artifactKey: Guid(c9ad912a75aa0db4c8d4097454bf25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-playupnomaterial.mat using Guid(c9ad912a75aa0db4c8d4097454bf25e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44dc5d2322c3f0aa6454847eac1d80b0') in 0.023248 seconds 
+  Import took 0.028150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor007.mat
+  artifactKey: Guid(75471797595894a4f94c7061793aec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColor007.mat using Guid(75471797595894a4f94c7061793aec8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2787eb3b3dc3d8cb3da730bb7c40954b') in 0.021960 seconds 
+  Import took 0.026734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorA013.mat
+  artifactKey: Guid(ac7faa2be9e869343b0fc4f57531459a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorA013.mat using Guid(ac7faa2be9e869343b0fc4f57531459a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '18b6bafa3e6967c20d66dc1d9a2fec34') in 0.023420 seconds 
+  Import took 0.028263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCAluminum.mat
+  artifactKey: Guid(fb3c6f5dad2bb6d4fb6a89831830e235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCAluminum.mat using Guid(fb3c6f5dad2bb6d4fb6a89831830e235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8b691b16b9443708cd5001a4dc8cf9a') in 0.023569 seconds 
+  Import took 0.027948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorD18.mat
+  artifactKey: Guid(09046ad8514af074f8321d1032b3f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorD18.mat using Guid(09046ad8514af074f8321d1032b3f524) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8191b47a55b621657ccc3043421b59') in 0.022752 seconds 
+  Import took 0.026394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iBlack.mat
+  artifactKey: Guid(1ac4b7212025faf48973b0e9db468499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iBlack.mat using Guid(1ac4b7212025faf48973b0e9db468499) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e746e515820d14725599edbd6e49f7ec') in 0.022286 seconds 
+  Import took 0.026324 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCPCB.mat
+  artifactKey: Guid(09bc7debc4f382b438ca27e35575ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCPCB.mat using Guid(09bc7debc4f382b438ca27e35575ceaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd8db916f2d092597175a07216c8422d') in 0.023286 seconds 
+  Import took 0.027568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorI06.mat
+  artifactKey: Guid(8ceef1cb43c8ade4c9ef164e51a42e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCColorI06.mat using Guid(8ceef1cb43c8ade4c9ef164e51a42e2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db9ad3f368405953b6602d0ed6d9903') in 0.025595 seconds 
+  Import took 0.032327 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCGold.mat
+  artifactKey: Guid(e96cbc67d4515c5439b2dd465bf08610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCGold.mat using Guid(e96cbc67d4515c5439b2dd465bf08610) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17be82400416623378baa196e4157123') in 0.022625 seconds 
+  Import took 0.027642 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCLED.mat
+  artifactKey: Guid(0efbef61422f6d541955b6d625ee9022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCLED.mat using Guid(0efbef61422f6d541955b6d625ee9022) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46b3b47c1fc2c00ff51b4c66417bd1a2') in 0.022712 seconds 
+  Import took 0.027218 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCCorsairNeutronGrey.mat
+  artifactKey: Guid(ea9f0ad1434ce764daf2b7172b8cacf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCCorsairNeutronGrey.mat using Guid(ea9f0ad1434ce764daf2b7172b8cacf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da437547825b5aac2cdef7ff41d9181') in 0.024501 seconds 
+  Import took 0.029912 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCSATA.mat
+  artifactKey: Guid(37713f747d0719644b5fee7a725ecf05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-SUDCSATA.mat using Guid(37713f747d0719644b5fee7a725ecf05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12c70c59dd8df7ed5bc39f97a86fd6fb') in 0.024726 seconds 
+  Import took 0.030020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-MetalCorrogatedShiny1.mat
+  artifactKey: Guid(67450e4b48aa06b40b1e0e276957e656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/ComputerCase-MetalCorrogatedShiny1.mat using Guid(67450e4b48aa06b40b1e0e276957e656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2b38f4b9f53e5b1762e7bc0c0dede02') in 0.023252 seconds 
+  Import took 0.027417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.443397 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iMisc.mat
+  artifactKey: Guid(28ad776a895297741a45ca439ba4d882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iMisc.mat using Guid(28ad776a895297741a45ca439ba4d882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497624760158bef1c50913d4cec8dfda') in 0.033901 seconds 
+  Import took 0.042574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iSilver.mat
+  artifactKey: Guid(19665feb0bc1bde4c8d67492bc3a94c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iSilver.mat using Guid(19665feb0bc1bde4c8d67492bc3a94c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf71d5cfc16d81de8ba0875ec76712b') in 0.048951 seconds 
+  Import took 0.061750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iWhite.mat
+  artifactKey: Guid(c44dab01ec2f0db4bbc55e1ee4d2e8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/Materials/SUDCAX1500iWhite.mat using Guid(c44dab01ec2f0db4bbc55e1ee4d2e8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03adda3ce39e6aaace23437e118cfa49') in 0.044609 seconds 
+  Import took 0.052245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.635048 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_.mat
+  artifactKey: Guid(d8916b4bcd4da9944a42b0db5ed4f3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_.mat using Guid(d8916b4bcd4da9944a42b0db5ed4f3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a18e3b290370b8c3605611e92c785db') in 0.020473 seconds 
+  Import took 0.025379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_6.mat
+  artifactKey: Guid(7e8ce410e3da4f54ba8f9dd782fcc441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_6.mat using Guid(7e8ce410e3da4f54ba8f9dd782fcc441) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66aa686bc9bb64446552bc357ed45f84') in 0.032999 seconds 
+  Import took 0.039782 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.708795 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_9.mat
+  artifactKey: Guid(3abc29a6472b3024186bb82dd7b3b357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_auto_9.mat using Guid(3abc29a6472b3024186bb82dd7b3b357) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '029e30c28e4262715edf3b11c677e053') in 0.018975 seconds 
+  Import took 0.023999 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000277 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.mat
+  artifactKey: Guid(d32d54b76a9eed74a8cce2da0f58600d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.mat using Guid(d32d54b76a9eed74a8cce2da0f58600d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '187d3bb27214ed95beaf1c42fb3a9a2d') in 0.040261 seconds 
+  Import took 0.044306 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-Plexi.mat
+  artifactKey: Guid(c4ecca40cdf5b4846aa7fc246021c667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-Plexi.mat using Guid(c4ecca40cdf5b4846aa7fc246021c667) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973c9c202ef93160e97039e480949353') in 0.025507 seconds 
+  Import took 0.030964 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0136_Charcoal]2.mat
+  artifactKey: Guid(9d6867b53f9f7b94ea75db1d3a1bb4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0136_Charcoal]2.mat using Guid(9d6867b53f9f7b94ea75db1d3a1bb4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da9996a21afcea9a3002a8414e52038c') in 0.024281 seconds 
+  Import took 0.030540 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-82ff72af-d1c9-42b2-9486-0d0915f2f674.mat
+  artifactKey: Guid(2fa6deeaad243d049b5b5ee465ccae7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-82ff72af-d1c9-42b2-9486-0d0915f2f674.mat using Guid(2fa6deeaad243d049b5b5ee465ccae7e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b45f812156c382f1af09f1e2ee55c83a') in 0.028804 seconds 
+  Import took 0.035467 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0137_Black]2.mat
+  artifactKey: Guid(8c3f807c663b95042b73d16cfb4edde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0137_Black]2.mat using Guid(8c3f807c663b95042b73d16cfb4edde4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2838e9e49c8e6e1f7f3c599d3343117c') in 0.024500 seconds 
+  Import took 0.028871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[0137_Black]2.mat
+  artifactKey: Guid(559884d2cde0ab24e9a638d9bfebe0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[0137_Black]2.mat using Guid(559884d2cde0ab24e9a638d9bfebe0cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b3a9d8bd3545dcf6b3b1d6a8ee6cbfc') in 0.022319 seconds 
+  Import took 0.026819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[Color M08]1.mat
+  artifactKey: Guid(bea6d2e68f9f8ad4b89c9f8681df3e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[Color M08]1.mat using Guid(bea6d2e68f9f8ad4b89c9f8681df3e5e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7786f08050932bf04e88cb05b4c3811') in 0.021930 seconds 
+  Import took 0.026181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0003_DeepPink].mat
+  artifactKey: Guid(550456f6c2d1fdb42ac018a56e13d709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0003_DeepPink].mat using Guid(550456f6c2d1fdb42ac018a56e13d709) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2f8bb79b648d21d122f2107c79425f7b') in 0.024759 seconds 
+  Import took 0.028960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-2776e18bf2ab2119b9e1d8a2bf1e6ba1.mat
+  artifactKey: Guid(484b8b3c32b4b214eacdc9f1948db1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-2776e18bf2ab2119b9e1d8a2bf1e6ba1.mat using Guid(484b8b3c32b4b214eacdc9f1948db1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016c916ad114b38d479714670c59c8f0') in 0.031934 seconds 
+  Import took 0.038662 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_defaultMat.mat
+  artifactKey: Guid(26040c0ee3776af4dbc2ce634235aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/CoolerFan-_defaultMat.mat using Guid(26040c0ee3776af4dbc2ce634235aa7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3689ba23101cad8df436edbb890f9d6') in 0.024298 seconds 
+  Import took 0.031701 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0024_OrangeRed].mat
+  artifactKey: Guid(67cbbcee9ea5c4942913d7ab64b9dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Curved Monitor-[0024_OrangeRed].mat using Guid(67cbbcee9ea5c4942913d7ab64b9dc91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c8f5189a82e42606d9f9f22649e60ad') in 0.023113 seconds 
+  Import took 0.027332 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0020_Red].mat
+  artifactKey: Guid(2471a7c4d26c091409bbb8ea27c04286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0020_Red].mat using Guid(2471a7c4d26c091409bbb8ea27c04286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b77f9c8a3948b02770b285a66a278366') in 0.023327 seconds 
+  Import took 0.028080 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[0136_Charcoal]2.mat
+  artifactKey: Guid(5113b5fb8ae38f5438fa060790584acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-[0136_Charcoal]2.mat using Guid(5113b5fb8ae38f5438fa060790584acf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '893f3604bc24f510726bf1b4359d804d') in 0.026466 seconds 
+  Import took 0.033457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-_defaultMat.mat
+  artifactKey: Guid(3571955398eacd5418a26487cf95e843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-_defaultMat.mat using Guid(3571955398eacd5418a26487cf95e843) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '869413c3ad8d0543cc1421dc13924c34') in 0.045833 seconds 
+  Import took 0.056356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.mat
+  artifactKey: Guid(47ee45ec1b5d9f042912fec7c863f97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Fan-aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.mat using Guid(47ee45ec1b5d9f042912fec7c863f97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d97cd5569cf9af13c89a835a47576bc') in 0.057212 seconds 
+  Import took 0.065230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.283668 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0020_Red]1.mat
+  artifactKey: Guid(1e664843c0e0c9d4889cd736240feb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0020_Red]1.mat using Guid(1e664843c0e0c9d4889cd736240feb9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b01db68bd7d93abdf956af65cdc8a836') in 0.019177 seconds 
+  Import took 0.024001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0044_DarkGoldenrod].mat
+  artifactKey: Guid(8a9ee79925e920743a17b146130b6425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0044_DarkGoldenrod].mat using Guid(8a9ee79925e920743a17b146130b6425) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b44d40f559bc66640ab4daf5b1bb2d41') in 0.026766 seconds 
+  Import took 0.030173 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0024_OrangeRed].mat
+  artifactKey: Guid(9045f67f662d87b4b9d258d3d0f29d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0024_OrangeRed].mat using Guid(9045f67f662d87b4b9d258d3d0f29d3d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab27ea973364054adfa110883a81d7ae') in 0.027102 seconds 
+  Import took 0.032198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000325 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0065_Lime].mat
+  artifactKey: Guid(12abc6801f0073d42b45ed4b80ad9679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0065_Lime].mat using Guid(12abc6801f0073d42b45ed4b80ad9679) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa1ca9f1d4f8b09643cfecb5f109abc0') in 0.024540 seconds 
+  Import took 0.031689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0021_DarkRed].mat
+  artifactKey: Guid(d4708066aa56a5e4bbdb62e2dec95bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0021_DarkRed].mat using Guid(d4708066aa56a5e4bbdb62e2dec95bcb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '149f54716f34e64827d1f8795f6ec297') in 0.025556 seconds 
+  Import took 0.032382 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0056_Yellow]1.mat
+  artifactKey: Guid(3483e5bb8906bb54da2706ecd1ac98d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0056_Yellow]1.mat using Guid(3483e5bb8906bb54da2706ecd1ac98d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '041708bdb49a993e32a54af03d633973') in 0.025617 seconds 
+  Import took 0.029799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0056_Yellow].mat
+  artifactKey: Guid(c5d6a58593e906c4a9e33bd3bce6d188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0056_Yellow].mat using Guid(c5d6a58593e906c4a9e33bd3bce6d188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ffc8001eb5a739e937ca0641c2e675') in 0.026168 seconds 
+  Import took 0.030737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0046_Gold]1.mat
+  artifactKey: Guid(aea5302d8039a234d9989db19e01d914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0046_Gold]1.mat using Guid(aea5302d8039a234d9989db19e01d914) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e06e7484e765b8248d30f4f109dae2') in 0.022764 seconds 
+  Import took 0.028764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052522 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0065_Lime]1.mat
+  artifactKey: Guid(3073d8360c3476a49b38e74937938aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0065_Lime]1.mat using Guid(3073d8360c3476a49b38e74937938aca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5808584e4daceac68775ac0d63353224') in 0.018800 seconds 
+  Import took 0.022622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0077_DarkGreen].mat
+  artifactKey: Guid(fa5d08cfe8610e742878659029058ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0077_DarkGreen].mat using Guid(fa5d08cfe8610e742878659029058ce9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b7e86a5adc65cc270d12a0d5270e763') in 0.026928 seconds 
+  Import took 0.030406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0097_DeepSkyBlue].mat
+  artifactKey: Guid(8446c6128309be1408af5b4a0ad495c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0097_DeepSkyBlue].mat using Guid(8446c6128309be1408af5b4a0ad495c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ad80a9bdd8c71a1e94b0890f40de058') in 0.022840 seconds 
+  Import took 0.027261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000224 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0087_Cyan].mat
+  artifactKey: Guid(6d7bab99460e4a3458b0f7d6bf8fa69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0087_Cyan].mat using Guid(6d7bab99460e4a3458b0f7d6bf8fa69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83401723b29b577e996c5a2126fb9c78') in 0.024876 seconds 
+  Import took 0.029554 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0088_Aquamarine].mat
+  artifactKey: Guid(d17067c7fff3893458e6c532b5ec6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0088_Aquamarine].mat using Guid(d17067c7fff3893458e6c532b5ec6b72) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4df083c28de272d266ccacae65e208d1') in 0.025925 seconds 
+  Import took 0.031121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0077_DarkGreen]1.mat
+  artifactKey: Guid(62472f64106a143478811eb26f2daf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0077_DarkGreen]1.mat using Guid(62472f64106a143478811eb26f2daf40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '051fcb6c1bc84a7042ea0770904f1fde') in 0.023810 seconds 
+  Import took 0.029318 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0069_LimeGreen].mat
+  artifactKey: Guid(957cd75e19c71ac47995702d7e616f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0069_LimeGreen].mat using Guid(957cd75e19c71ac47995702d7e616f31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90a23698325e7f57f0e65cca67e4b9bd') in 0.032683 seconds 
+  Import took 0.037034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0092_Azure].mat
+  artifactKey: Guid(829207fc5e139704285a315dbaf9b1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0092_Azure].mat using Guid(829207fc5e139704285a315dbaf9b1e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57f3bd07f7b4e80fa4ac143f1e89115e') in 0.023032 seconds 
+  Import took 0.027431 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0128_White]1.mat
+  artifactKey: Guid(9f3ecb1092446ec46ad8dca0a7656bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0128_White]1.mat using Guid(9f3ecb1092446ec46ad8dca0a7656bfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8eea92f6715d2ccb841629e701e4c73e') in 0.022146 seconds 
+  Import took 0.027855 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0131_Silver]2.mat
+  artifactKey: Guid(db401177a1763234fa695f980e584a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0131_Silver]2.mat using Guid(db401177a1763234fa695f980e584a3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40090aa2836db748651799e3a48e3ad6') in 0.024235 seconds 
+  Import took 0.028345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0108_Indigo]2.mat
+  artifactKey: Guid(c343a51b1b1c79c41bd2e8ecb979a092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0108_Indigo]2.mat using Guid(c343a51b1b1c79c41bd2e8ecb979a092) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c853bab30a1cb81e3772b7a1453e71') in 0.023506 seconds 
+  Import took 0.027590 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0124_Purple].mat
+  artifactKey: Guid(cb08768f22d7d5a4386466f8ce5e9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0124_Purple].mat using Guid(cb08768f22d7d5a4386466f8ce5e9117) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60462cfccaca38133e7ad2a3376adce0') in 0.021752 seconds 
+  Import took 0.026708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0126_Violet]1.mat
+  artifactKey: Guid(377db2ff820e6374f95e6cb0d08f26a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0126_Violet]1.mat using Guid(377db2ff820e6374f95e6cb0d08f26a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbeee354dc0a6ed9b78d15b03d03561d') in 0.024354 seconds 
+  Import took 0.028715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0127_Magenta]1.mat
+  artifactKey: Guid(a74bdaa8c2a94f94b9839b17cec3f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0127_Magenta]1.mat using Guid(a74bdaa8c2a94f94b9839b17cec3f901) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52c5fe7062a49f0424f6e177810cb9ef') in 0.022886 seconds 
+  Import took 0.028259 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000281 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0097_DeepSkyBlue]2.mat
+  artifactKey: Guid(cd98abe3b758f3a4ab5a8b84a5b0ade1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0097_DeepSkyBlue]2.mat using Guid(cd98abe3b758f3a4ab5a8b84a5b0ade1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3143bc12429b4534f4118e9ffea30cff') in 0.026307 seconds 
+  Import took 0.031759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0128_White]2.mat
+  artifactKey: Guid(8af41450d6dc198409697d8cb8f6c16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0128_White]2.mat using Guid(8af41450d6dc198409697d8cb8f6c16c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd491cd22b7f0010643da167fdb363483') in 0.025666 seconds 
+  Import took 0.029857 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.538707 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0135_DarkGray]2.mat
+  artifactKey: Guid(be3eed5f57f35af4d86510572557065d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0135_DarkGray]2.mat using Guid(be3eed5f57f35af4d86510572557065d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41b4e9c07ff8c56a5a29fc0157adfc0e') in 0.020129 seconds 
+  Import took 0.024479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0136_Charcoal]3.mat
+  artifactKey: Guid(6d3388f152592654ab7ed86d816b65fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0136_Charcoal]3.mat using Guid(6d3388f152592654ab7ed86d816b65fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5fc16e34619fda34354eb8e6477f7a3') in 0.025771 seconds 
+  Import took 0.030425 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0137_Black].mat
+  artifactKey: Guid(0ae03daee8d83644a8a967f4f346b52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0137_Black].mat using Guid(0ae03daee8d83644a8a967f4f346b52e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '917910008c3de23a07b8702d321e6d3e') in 0.021128 seconds 
+  Import took 0.025811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_009]1.mat
+  artifactKey: Guid(a8dc763f9f5d93c4a97ccd04ed7e9e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_009]1.mat using Guid(a8dc763f9f5d93c4a97ccd04ed7e9e0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8476ea28cae65433502fdc310a2af3') in 0.021272 seconds 
+  Import took 0.024729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-_defaultMat.mat
+  artifactKey: Guid(893c5a692c01c6d42a6f8e12cd89a813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-_defaultMat.mat using Guid(893c5a692c01c6d42a6f8e12cd89a813) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '970603aeafc876fb3d13014cab3fbe95') in 0.021392 seconds 
+  Import took 0.025715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_008].mat
+  artifactKey: Guid(db85d42387a6d5d4981e4d95ee4e02cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_008].mat using Guid(db85d42387a6d5d4981e4d95ee4e02cf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3234f834731e29e0107a49e48743b71f') in 0.023891 seconds 
+  Import took 0.027563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_000]1.mat
+  artifactKey: Guid(3e6ab381137dd934f8bee3b351558468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_000]1.mat using Guid(3e6ab381137dd934f8bee3b351558468) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edd234a594d2e8e2bbe478b3a75577f3') in 0.022206 seconds 
+  Import took 0.028252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color M08]1.mat
+  artifactKey: Guid(bc5c6c632002317468af44827ebd0847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color M08]1.mat using Guid(bc5c6c632002317468af44827ebd0847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eadc24519b9b62195bcf75855024d400') in 0.021377 seconds 
+  Import took 0.025831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0136_Charcoal]2.mat
+  artifactKey: Guid(4326933c8d6597a4d9252db92a226e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[0136_Charcoal]2.mat using Guid(4326933c8d6597a4d9252db92a226e80) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17a72fd2b5d4730a6e4739a0bd73e268') in 0.022901 seconds 
+  Import took 0.027103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000212 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_000].mat
+  artifactKey: Guid(ff6f3939c7648914d8973582437b719b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_000].mat using Guid(ff6f3939c7648914d8973582437b719b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb1512709a3e659b5b4c8b518d255f3a') in 0.023289 seconds 
+  Import took 0.028220 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000314 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color B07].mat
+  artifactKey: Guid(836865f765cabd34dbd47eaa9186ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color B07].mat using Guid(836865f765cabd34dbd47eaa9186ab87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6435cf51a64977976567cc10142374e') in 0.037613 seconds 
+  Import took 0.042033 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color M09]1.mat
+  artifactKey: Guid(4991a85c5838eee4faccaf38af5e7135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color M09]1.mat using Guid(4991a85c5838eee4faccaf38af5e7135) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e605e8b2ed94c760f24a72e60716145') in 0.057244 seconds 
+  Import took 0.063460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Gray6].mat
+  artifactKey: Guid(3a3adcb08859e0944ac9b5d471063efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Gray6].mat using Guid(3a3adcb08859e0944ac9b5d471063efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb01486f433d00194d7f6a87b53abafe') in 0.056516 seconds 
+  Import took 0.063039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Metal_Steel_Textured]1.mat
+  artifactKey: Guid(43d199bd3e9762640ab457355619a92f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Metal_Steel_Textured]1.mat using Guid(43d199bd3e9762640ab457355619a92f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a6ad441c0c94a35e3069eed92a0c27dc') in 0.051984 seconds 
+  Import took 0.058394 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color A05].mat
+  artifactKey: Guid(ec997afef31e4de4a9645e431029ca12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color A05].mat using Guid(ec997afef31e4de4a9645e431029ca12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3b62fd5aadc9d659bccab8f70d33a2e') in 0.045668 seconds 
+  Import took 0.052574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_002]3.mat
+  artifactKey: Guid(f42f18f29476aff498377a20e3bf430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-[Color_002]3.mat using Guid(f42f18f29476aff498377a20e3bf430a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8374547a7bdb8d40d45527a95ef18126') in 0.036037 seconds 
+  Import took 0.043546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000170 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]1.mat
+  artifactKey: Guid(1cd07ad0fdcd54444a3e30f91ab8cf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]1.mat using Guid(1cd07ad0fdcd54444a3e30f91ab8cf9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1176cc0730ebb0c2de1fd60a4d7aded1') in 0.025538 seconds 
+  Import took 0.030268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_002]1.mat
+  artifactKey: Guid(3e749f7fe4ae6ba4495988e53cd6fa8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_002]1.mat using Guid(3e749f7fe4ae6ba4495988e53cd6fa8e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc14897cd6bd3cf8f80898eb236c05c3') in 0.024257 seconds 
+  Import took 0.029174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-corsair logo nome.mat
+  artifactKey: Guid(ef8c56c11aaf0af4983603c00cfe6936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-corsair logo nome.mat using Guid(ef8c56c11aaf0af4983603c00cfe6936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07202e23cfa9bbdadd78be3d1a1331db') in 0.038674 seconds 
+  Import took 0.046315 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Concrete_Aggregate_Smoke].mat
+  artifactKey: Guid(3a612181992cc864e8640f94cf8ccd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Concrete_Aggregate_Smoke].mat using Guid(3a612181992cc864e8640f94cf8ccd06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd3074006720dcdf1e3350600359967b') in 0.037688 seconds 
+  Import took 0.042637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-tapete-rato-kingston-hyperx-fury-pro-gaming-extra-large.mat
+  artifactKey: Guid(935e330eb537d3841af7af4ebd205be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-tapete-rato-kingston-hyperx-fury-pro-gaming-extra-large.mat using Guid(935e330eb537d3841af7af4ebd205be0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '883d68b5c4f7946bfdbbb84c1ffe0b74') in 0.040454 seconds 
+  Import took 0.045730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-ram.mat
+  artifactKey: Guid(509485f9acc7b3549b68902512afc53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-ram.mat using Guid(509485f9acc7b3549b68902512afc53d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '510f9cec7d14455e198e326c09af40b9') in 0.045233 seconds 
+  Import took 0.049292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_000]2.mat
+  artifactKey: Guid(6c0473690d41bd04fad83b6ed78d8fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_000]2.mat using Guid(6c0473690d41bd04fad83b6ed78d8fd1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd075b197bc2d047fb9ff16f3c411802d') in 0.025932 seconds 
+  Import took 0.030970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-GTX 690 b.mat
+  artifactKey: Guid(26ea3c71e3683fb4e98325c317ce62db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-GTX 690 b.mat using Guid(26ea3c71e3683fb4e98325c317ce62db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc30b48f85a62f086720b919d723e1b8') in 0.035794 seconds 
+  Import took 0.041052 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-Metal_stal.mat
+  artifactKey: Guid(aeeee68a3e1e4cb409d99ac81b80d4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-Metal_stal.mat using Guid(aeeee68a3e1e4cb409d99ac81b80d4d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30ac4b1800b747f286949f14a0dd86db') in 0.024463 seconds 
+  Import took 0.029057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-LED.mat
+  artifactKey: Guid(779f56014a642ff478c10338d630dbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-LED.mat using Guid(779f56014a642ff478c10338d630dbba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22afd9794a31a8537acddc475ebd9944') in 0.023177 seconds 
+  Import took 0.029141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-_7.mat
+  artifactKey: Guid(79e2ed1216f20da47bb20b88f87fee11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-_7.mat using Guid(79e2ed1216f20da47bb20b88f87fee11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da03649a2e604371e846d2b117f7c69d') in 0.058144 seconds 
+  Import took 0.066477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-_8.mat
+  artifactKey: Guid(327b79fe9e074b04db0a4c818a4b1ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-_8.mat using Guid(327b79fe9e074b04db0a4c818a4b1ff5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715a36a5445107cd034650d89b959ec0') in 0.070946 seconds 
+  Import took 0.077086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_A01].mat
+  artifactKey: Guid(3ea0817266937f54cbaf471e0b7c41f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_A01].mat using Guid(3ea0817266937f54cbaf471e0b7c41f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1bd5bc2f9c81a08ec46106357ae856') in 0.043861 seconds 
+  Import took 0.053320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Translucent_Glass_Gray]1.mat
+  artifactKey: Guid(309eedc319ea265439367096976c2acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Translucent_Glass_Gray]1.mat using Guid(309eedc319ea265439367096976c2acd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4cd5f0af126480b6c35cdc064e6e12c') in 0.041087 seconds 
+  Import took 0.051490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000943 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0136_Charcoal]2.mat
+  artifactKey: Guid(f004987a0462f3744b840b4eb6e92ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0136_Charcoal]2.mat using Guid(f004987a0462f3744b840b4eb6e92ac8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4e50caddd865c8454e9f290ab535d41') in 0.034843 seconds 
+  Import took 0.040303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0096_SkyBlue].mat
+  artifactKey: Guid(ac45768f0d31ff440bc5d36311d4316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0096_SkyBlue].mat using Guid(ac45768f0d31ff440bc5d36311d4316d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '343bbd5d9449f9ea7fa4aa58e40a0fd6') in 0.023326 seconds 
+  Import took 0.028576 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M09]2.mat
+  artifactKey: Guid(baf0c8e3da3dfec4cb109c44bf0e69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M09]2.mat using Guid(baf0c8e3da3dfec4cb109c44bf0e69a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ea450227f296413d0dd6777127e1ba8') in 0.022077 seconds 
+  Import took 0.027831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_3.mat
+  artifactKey: Guid(8f5b6fe50775f6f4eb9bb262417d3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_3.mat using Guid(8f5b6fe50775f6f4eb9bb262417d3816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e5300bc7bb9a0a0102ddba59afb9d8ab') in 0.023994 seconds 
+  Import took 0.031372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0112_SlateBlue].mat
+  artifactKey: Guid(949a1474e1f965f45abbb74cb3d4ce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0112_SlateBlue].mat using Guid(949a1474e1f965f45abbb74cb3d4ce43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1862d8d731a7decb1d78c8f971c18d8') in 0.025156 seconds 
+  Import took 0.030577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07]2.mat
+  artifactKey: Guid(0023c6b348fd1d54981818c585139ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07]2.mat using Guid(0023c6b348fd1d54981818c585139ddf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b60542ab1358759430038ea573c52da') in 0.022583 seconds 
+  Import took 0.026543 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0038_Orange]1.mat
+  artifactKey: Guid(f5d25e964a31f5440997c9b223701751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0038_Orange]1.mat using Guid(f5d25e964a31f5440997c9b223701751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12b926bfd7bee8e68d7f020c566f69ce') in 0.023363 seconds 
+  Import took 0.027348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0067_PaleGreen].mat
+  artifactKey: Guid(3ffc3a296cb9ceb4ea2e1528de70bfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0067_PaleGreen].mat using Guid(3ffc3a296cb9ceb4ea2e1528de70bfb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1b2cb13a16c424e6197f60fdaf2d191') in 0.021276 seconds 
+  Import took 0.026454 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0137_Black]2.mat
+  artifactKey: Guid(cdf6b6d49ec0f204fa3f683f8fc50e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0137_Black]2.mat using Guid(cdf6b6d49ec0f204fa3f683f8fc50e19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a7a2d0f410abea1aee3bc149e2a7f0f') in 0.023249 seconds 
+  Import took 0.027446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0131_Silver]1.mat
+  artifactKey: Guid(527953080fb138847af04591afb3bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0131_Silver]1.mat using Guid(527953080fb138847af04591afb3bea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a153057a47f70e47052290b5d589b2') in 0.022285 seconds 
+  Import took 0.026042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-312799329008e8cff102eba9b0e964d5.mat
+  artifactKey: Guid(f23692964fe2a884fa37c63b3bca66b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-312799329008e8cff102eba9b0e964d5.mat using Guid(f23692964fe2a884fa37c63b3bca66b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '760bdaa67606cb1e632aecff56ef609d') in 0.040401 seconds 
+  Import took 0.044834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_11.mat
+  artifactKey: Guid(9b9feb4d64339bc4c91eaead7f99da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_11.mat using Guid(9b9feb4d64339bc4c91eaead7f99da47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1dba86b3eff2a5af812be8ee2378bff0') in 0.023214 seconds 
+  Import took 0.028310 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000289 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0010_Snow]1.mat
+  artifactKey: Guid(2e47376253e4dc741ab9727d3a996ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0010_Snow]1.mat using Guid(2e47376253e4dc741ab9727d3a996ed5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b32840edef92b6482ab58c2a19670652') in 0.026975 seconds 
+  Import took 0.032776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000317 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-Plastik_czarny1.mat
+  artifactKey: Guid(8509bae0567d33f4a842b9eedd95964a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-Plastik_czarny1.mat using Guid(8509bae0567d33f4a842b9eedd95964a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290eea79f9fa23ac8e2d313204573580') in 0.023970 seconds 
+  Import took 0.028396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M08]1.mat
+  artifactKey: Guid(788adea64d636fe4784a713e1700fc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M08]1.mat using Guid(788adea64d636fe4784a713e1700fc49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bf5e5c6e1f530a5e7187140306192bf') in 0.022869 seconds 
+  Import took 0.027066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-Logitech_G633_Artemis_Spectrum_Image3.mat
+  artifactKey: Guid(cafc4b783890213479fdd4836da3b85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-Logitech_G633_Artemis_Spectrum_Image3.mat using Guid(cafc4b783890213479fdd4836da3b85c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0375426006750fe68cbf21f978dc332d') in 0.034120 seconds 
+  Import took 0.038762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07].mat
+  artifactKey: Guid(f1790ccb982ce6548bda442357459a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07].mat using Guid(f1790ccb982ce6548bda442357459a92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5675315788871b0b4085adf28c185713') in 0.022841 seconds 
+  Import took 0.027442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0126_Violet].mat
+  artifactKey: Guid(f9374516020983746b87eac97d038586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0126_Violet].mat using Guid(f9374516020983746b87eac97d038586) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b39599a6e2f543bd747dd0bbd747365') in 0.020573 seconds 
+  Import took 0.025648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_A13].mat
+  artifactKey: Guid(523d43c107e7f0741a4c6b64c9ede018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_A13].mat using Guid(523d43c107e7f0741a4c6b64c9ede018) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7cbd374efe52161294a68ed43c652b3a') in 0.020439 seconds 
+  Import took 0.024757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0046_Gold].mat
+  artifactKey: Guid(77267b6d7568e634398f72cc624905f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0046_Gold].mat using Guid(77267b6d7568e634398f72cc624905f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f6daf7629bb5a6f5a6e6d33cbda891') in 0.020069 seconds 
+  Import took 0.024349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0133_Gray]1.mat
+  artifactKey: Guid(cd3ae0a8243c2484ba9131bf7d17678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0133_Gray]1.mat using Guid(cd3ae0a8243c2484ba9131bf7d17678a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9cf9fdd5cf22459af7e1d8be8d77bc9f') in 0.021481 seconds 
+  Import took 0.028170 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07]1.mat
+  artifactKey: Guid(9d78c1c28b9e5d844bb6bf9e6ea09fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M07]1.mat using Guid(9d78c1c28b9e5d844bb6bf9e6ea09fad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51a1ec5db91b0199daaccaab97339e0f') in 0.023170 seconds 
+  Import took 0.027735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0097_DeepSkyBlue].mat
+  artifactKey: Guid(252345b09dbe8054a8c4990a22d961a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[0097_DeepSkyBlue].mat using Guid(252345b09dbe8054a8c4990a22d961a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51b97575470c05a2f9ea19825ef4f826') in 0.023111 seconds 
+  Import took 0.026811 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-corsair logo simb.mat
+  artifactKey: Guid(a7e28ce28053ea640b162dacf12bbec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-corsair logo simb.mat using Guid(a7e28ce28053ea640b162dacf12bbec0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e2efc5df6f52aa5e65ff06baa23ae136') in 0.027609 seconds 
+  Import took 0.031950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000160 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-LED.mat
+  artifactKey: Guid(260fc260448b1804f8a246b224af1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-LED.mat using Guid(260fc260448b1804f8a246b224af1608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9166db98490dd7d75b14e65d7f710e51') in 0.019728 seconds 
+  Import took 0.023032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]4.mat
+  artifactKey: Guid(f2aa9d090c445b1449d26eed46b186d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]4.mat using Guid(f2aa9d090c445b1449d26eed46b186d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364e36a8dea1910a1bf8f471c0e711fe') in 0.022381 seconds 
+  Import took 0.026897 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]3.mat
+  artifactKey: Guid(d206742392e4bce4280d62f9dc77b8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-[Color_008]3.mat using Guid(d206742392e4bce4280d62f9dc77b8ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7950a7c4c0812116941a4799246f2d97') in 0.022534 seconds 
+  Import took 0.026325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color A05].mat
+  artifactKey: Guid(65167cd819c0f994db6b227207334566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color A05].mat using Guid(65167cd819c0f994db6b227207334566) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d0128667a8b30eaf3519347a8a03513') in 0.022458 seconds 
+  Import took 0.026143 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-PCB1.mat
+  artifactKey: Guid(0f75d0e82fec30f4a91aa412b1536a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-PCB1.mat using Guid(0f75d0e82fec30f4a91aa412b1536a51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8485f0bf18300f96d42ece3d42a65ddb') in 0.021301 seconds 
+  Import took 0.026047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0137_Black].mat
+  artifactKey: Guid(ac6df80b64a0c91489de61cc70c5fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0137_Black].mat using Guid(ac6df80b64a0c91489de61cc70c5fc12) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249e49468751be14df45f33b6b58d885') in 0.020022 seconds 
+  Import took 0.023738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_003].mat
+  artifactKey: Guid(e92feab182dc3c743b81d2b5023c3b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_003].mat using Guid(e92feab182dc3c743b81d2b5023c3b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a4ed3fb412c0ea7ab1ce0ac2760c470') in 0.021939 seconds 
+  Import took 0.026117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000146 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_006].mat
+  artifactKey: Guid(2ebd5b5240cb0a043bbdf8c02811e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_006].mat using Guid(2ebd5b5240cb0a043bbdf8c02811e78c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efeae3e6d0dae44de8cd388933dd9ee2') in 0.020484 seconds 
+  Import took 0.025587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_007].mat
+  artifactKey: Guid(a258d23a5b5d5c246994fe4e1bf0c3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_007].mat using Guid(a258d23a5b5d5c246994fe4e1bf0c3dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d07eeb6bf0778b96ae50ee0d3006b0b') in 0.020798 seconds 
+  Import took 0.026246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_001].mat
+  artifactKey: Guid(5caf653668131f0499b6c5c644686250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_001].mat using Guid(5caf653668131f0499b6c5c644686250) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9acb8de111555fb7c22ff40166790a') in 0.020744 seconds 
+  Import took 0.025317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_009].mat
+  artifactKey: Guid(4ec09b08586de404a9f57685c116569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_009].mat using Guid(4ec09b08586de404a9f57685c116569a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7a15253fe68801d8c54937dff2175d9') in 0.020200 seconds 
+  Import took 0.024010 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_A01]3.mat
+  artifactKey: Guid(61876b3257858654584507375bb0d6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_A01]3.mat using Guid(61876b3257858654584507375bb0d6d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeaab32aeaa754d922cd6ffdb8dce315') in 0.019631 seconds 
+  Import took 0.023487 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_A01].mat
+  artifactKey: Guid(64a394e90645e26489471e4da567d7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_A01].mat using Guid(64a394e90645e26489471e4da567d7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd69e733e20e6c5a24cf71ddde97e2ee7') in 0.021589 seconds 
+  Import took 0.025843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000220 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_002]1.mat
+  artifactKey: Guid(60eec370a26efa5418997d70a6bbbad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_002]1.mat using Guid(60eec370a26efa5418997d70a6bbbad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '257e65c8c17894fb7aba530f82b759af') in 0.022488 seconds 
+  Import took 0.026630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_003]2.mat
+  artifactKey: Guid(f4cc603e6b34ddd4aa2ebb56c2b7d019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_003]2.mat using Guid(f4cc603e6b34ddd4aa2ebb56c2b7d019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d19edc5ce8414354b2ca3c2f3018e43') in 0.023591 seconds 
+  Import took 0.028270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_009]2.mat
+  artifactKey: Guid(8a7df1d37dd565c4e978d53a2eb8f032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_009]2.mat using Guid(8a7df1d37dd565c4e978d53a2eb8f032) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '092c283d8b43c6cc0285d47c60988db9') in 0.024318 seconds 
+  Import took 0.028625 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_I05]1.mat
+  artifactKey: Guid(905106fb2f46d43418011ee3144cb75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_I05]1.mat using Guid(905106fb2f46d43418011ee3144cb75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '997d31d71d274ee9f44b77561117a9c3') in 0.026796 seconds 
+  Import took 0.032256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_B02].mat
+  artifactKey: Guid(cd5bb484458dc4e4c81cc30da645b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_B02].mat using Guid(cd5bb484458dc4e4c81cc30da645b235) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79ed19a626c22d104508bab663e81314') in 0.027060 seconds 
+  Import took 0.032291 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_008]1.mat
+  artifactKey: Guid(e430d7a4ad69a7b47bd4244e8c862b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_008]1.mat using Guid(e430d7a4ad69a7b47bd4244e8c862b3e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1c7189b0a4535f7e741c3a6d6479650') in 0.025049 seconds 
+  Import took 0.031001 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_C05].mat
+  artifactKey: Guid(03a0a3df7d0641942947026572878d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_C05].mat using Guid(03a0a3df7d0641942947026572878d41) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f879983d34288c60f92073145684f2eb') in 0.024330 seconds 
+  Import took 0.030622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_G09].mat
+  artifactKey: Guid(0e9c640fce7814648b328f0282f1491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_G09].mat using Guid(0e9c640fce7814648b328f0282f1491d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bed766e8accd7c8a9d09c08d1ac9b50c') in 0.025292 seconds 
+  Import took 0.032852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_008]2.mat
+  artifactKey: Guid(85a0ace1d5fa06b4d9e459c8ad1d7c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_008]2.mat using Guid(85a0ace1d5fa06b4d9e459c8ad1d7c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e47bc1bdc6227f53ead836d66851f17') in 0.023443 seconds 
+  Import took 0.030862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-_defaultMat.mat
+  artifactKey: Guid(b754d702891be534ba522f2f89ff1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-_defaultMat.mat using Guid(b754d702891be534ba522f2f89ff1db0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8762ff52d4f7db77186d3a6b745310bd') in 0.022707 seconds 
+  Import took 0.027081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-USB IO.mat
+  artifactKey: Guid(75add9e1067f89a44903e0596dc186a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-USB IO.mat using Guid(75add9e1067f89a44903e0596dc186a0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b306d7de30d763ea8b51ce2ddeb4163') in 0.025022 seconds 
+  Import took 0.029498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Silver.mat
+  artifactKey: Guid(176dd30f27d62d34282cd76cbd8f038d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Silver.mat using Guid(176dd30f27d62d34282cd76cbd8f038d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38b9afa38e83c20eb4fe6732134ed6c6') in 0.023451 seconds 
+  Import took 0.027296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_009].mat
+  artifactKey: Guid(6536484297b153b4b86dcc54880be0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_009].mat using Guid(6536484297b153b4b86dcc54880be0c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aa7c1924f16cc8b273750978a513eac') in 0.019577 seconds 
+  Import took 0.023569 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000156 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i White.mat
+  artifactKey: Guid(7ae95431db3f0884e8c43d3682a49286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i White.mat using Guid(7ae95431db3f0884e8c43d3682a49286) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69ac63deab82074e2c6c28c0d5efe2dc') in 0.020741 seconds 
+  Import took 0.025118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_007].mat
+  artifactKey: Guid(3de4d96e4f87b9f44b506f340f7d329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_007].mat using Guid(3de4d96e4f87b9f44b506f340f7d329d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06c9e3b126ec2ab1716f6198a91fa1d6') in 0.021017 seconds 
+  Import took 0.025206 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_009]3.mat
+  artifactKey: Guid(0a84fb2653ed8854f9cf6001338419bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_009]3.mat using Guid(0a84fb2653ed8854f9cf6001338419bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '156eb7542e04170a425c015693e31f20') in 0.021199 seconds 
+  Import took 0.025144 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-ram.mat
+  artifactKey: Guid(13dfc41b0e88ff847a01f6960f967c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-ram.mat using Guid(13dfc41b0e88ff847a01f6960f967c19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2596d1e8978a48977326b7f026d0eb64') in 0.023266 seconds 
+  Import took 0.028728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Gold-Plated.mat
+  artifactKey: Guid(68adcfa3fe7816744b6261620e654cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Gold-Plated.mat using Guid(68adcfa3fe7816744b6261620e654cee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6be51257cce3fe43a4ac465c0931de0') in 0.023509 seconds 
+  Import took 0.028261 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_C05].mat
+  artifactKey: Guid(2950e63173559364491534d73c16384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_C05].mat using Guid(2950e63173559364491534d73c16384d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef78e6c0f0fead2156daa7560f2836b2') in 0.023427 seconds 
+  Import took 0.028885 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 2.mat
+  artifactKey: Guid(1b73869e54574f241a37ef5194b085e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 2.mat using Guid(1b73869e54574f241a37ef5194b085e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '256650781cd92975a7ec7d9105919b4b') in 0.032160 seconds 
+  Import took 0.035758 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-corsairicon.mat
+  artifactKey: Guid(d30c1c4a6fc080e4caabddebaf9d85e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-corsairicon.mat using Guid(d30c1c4a6fc080e4caabddebaf9d85e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1a342cfeffcd57aa5724575e1a3ef30') in 0.021413 seconds 
+  Import took 0.026057 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 3.mat
+  artifactKey: Guid(52845616c6b798d45b0e41264d3e81c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 3.mat using Guid(52845616c6b798d45b0e41264d3e81c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2fb91ebb10e766358349645fad494cfd') in 0.029725 seconds 
+  Import took 0.034086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_008]1.mat
+  artifactKey: Guid(be3ac8b1188852e4599c7282f8df181d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-[Color_008]1.mat using Guid(be3ac8b1188852e4599c7282f8df181d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '277ecd8cf5c570fbf480f2cb93f9664a') in 0.021909 seconds 
+  Import took 0.025774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-default.mat
+  artifactKey: Guid(ecea6c7be4beeca41ba8ed2a86c7d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-default.mat using Guid(ecea6c7be4beeca41ba8ed2a86c7d4bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c2710b9dbd3a9e23044058e28ffebf2f') in 0.021335 seconds 
+  Import took 0.025929 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-dom_pt_straight_2800_2_1_1_1_1_1_1_1_1_1_2_1.mat
+  artifactKey: Guid(872240d6eaa118945a5d4952c7dec6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-dom_pt_straight_2800_2_1_1_1_1_1_1_1_1_1_2_1.mat using Guid(872240d6eaa118945a5d4952c7dec6d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ebd6b904c1be59db757c4f2c1f9f393') in 0.022802 seconds 
+  Import took 0.026281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000219 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_4.mat
+  artifactKey: Guid(48c66fde59b064a48b69637c34113694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_4.mat using Guid(48c66fde59b064a48b69637c34113694) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '701616aacf027addca301d8b6d79ff71') in 0.045674 seconds 
+  Import took 0.050176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Misc.mat
+  artifactKey: Guid(de049d63eb256b849bdec7b944dc552d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Misc.mat using Guid(de049d63eb256b849bdec7b944dc552d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf2feec727215ed0ee6017a575c7265d') in 0.052715 seconds 
+  Import took 0.061039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_B09].mat
+  artifactKey: Guid(c5bc0aa326bffee44ad6db6aa0210ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_B09].mat using Guid(c5bc0aa326bffee44ad6db6aa0210ed8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35423ae404985c7ee3fa10afada94dad') in 0.050212 seconds 
+  Import took 0.057752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001386 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_005].mat
+  artifactKey: Guid(ccef2a916f917874a813d3211471d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_005].mat using Guid(ccef2a916f917874a813d3211471d887) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c380a98d4dc4803ac38f2ac4487fd26f') in 0.048704 seconds 
+  Import took 0.056134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_I03]1.mat
+  artifactKey: Guid(f510795ccaaca834e9f76d1d9eb6033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_I03]1.mat using Guid(f510795ccaaca834e9f76d1d9eb6033d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac1d240f4c0c49f31c906c01172da556') in 0.041185 seconds 
+  Import took 0.049264 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000337 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_D04].mat
+  artifactKey: Guid(99ca6714c7b2aeb45951b5be57dc0ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_D04].mat using Guid(99ca6714c7b2aeb45951b5be57dc0ed4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8cdc158d3cb900f9e66b5c913def8db') in 0.032582 seconds 
+  Import took 0.038982 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_Black_.mat
+  artifactKey: Guid(6b724e71ccd41554ba6e127e67b26b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_Black_.mat using Guid(6b724e71ccd41554ba6e127e67b26b83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d0440917f4ef315cb8a78637487e2e5') in 0.027980 seconds 
+  Import took 0.033766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_1.mat
+  artifactKey: Guid(6ff29d4747128c94e9704f6406edebe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_1.mat using Guid(6ff29d4747128c94e9704f6406edebe3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '81b118a977a24021b6e45c4e76f02c5f') in 0.024564 seconds 
+  Import took 0.029388 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-GTX 690 t.mat
+  artifactKey: Guid(74e8c6b09354f8242b646a88fa2408c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GeForce780M-GTX 690 t.mat using Guid(74e8c6b09354f8242b646a88fa2408c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '23b56277b6a9be3b74a2a0ae8bdc1e64') in 0.033570 seconds 
+  Import took 0.036948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0129_WhiteSmoke]1.mat
+  artifactKey: Guid(7e6688e50c4e88842b3e1a3fa170d2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0129_WhiteSmoke]1.mat using Guid(7e6688e50c4e88842b3e1a3fa170d2e3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1693a798718534abe1437fc54ca5a78') in 0.021262 seconds 
+  Import took 0.025430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_defaultMat.mat
+  artifactKey: Guid(d5f2c85a73d6da741ad05520b5202caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-_defaultMat.mat using Guid(d5f2c85a73d6da741ad05520b5202caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb51d813191fb75f5019718cade6dbfd') in 0.021516 seconds 
+  Import took 0.025603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-LAN Gold.mat
+  artifactKey: Guid(c87ac25ef2b95f045a9bcceec33cbba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-LAN Gold.mat using Guid(c87ac25ef2b95f045a9bcceec33cbba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '765de59effb11f9e1b9d6fc31b427bdb') in 0.022786 seconds 
+  Import took 0.026738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i LED.mat
+  artifactKey: Guid(f427a5ebf4113b3439d066c5e7c5c98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i LED.mat using Guid(f427a5ebf4113b3439d066c5e7c5c98e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cdb7da7417a1685164dd1106e7ce98d0') in 0.029322 seconds 
+  Import took 0.033434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-MyFrontMaterial1.mat
+  artifactKey: Guid(c30e786dac737054f8f1624057c81c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-MyFrontMaterial1.mat using Guid(c30e786dac737054f8f1624057c81c1d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc23c4384cee9c3e3ea4dd0a3d859b68') in 0.022457 seconds 
+  Import took 0.026118 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-LED.mat
+  artifactKey: Guid(6c6f94464d575a544aa05d5d4ef90ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-LED.mat using Guid(6c6f94464d575a544aa05d5d4ef90ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211e513329cd479e8029272826f5db0a') in 0.023672 seconds 
+  Import took 0.028059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-IO Shiny.mat
+  artifactKey: Guid(34b4892708e597d4e9bfe482e78d22d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-IO Shiny.mat using Guid(34b4892708e597d4e9bfe482e78d22d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bea854601dd7c177a0acc170f989804') in 0.024601 seconds 
+  Import took 0.031359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-ESATA Red.mat
+  artifactKey: Guid(9e5946eab66342f42b0c40eaad175ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-ESATA Red.mat using Guid(9e5946eab66342f42b0c40eaad175ba0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f92c87b4d173b45c9df5326feed43c61') in 0.022868 seconds 
+  Import took 0.026726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 1.mat
+  artifactKey: Guid(9d728a42085ccc54d8238cb7f20de1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Label 1.mat using Guid(9d728a42085ccc54d8238cb7f20de1e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e931fc740fb300d91681d87daade9e0') in 0.034694 seconds 
+  Import took 0.038271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0136_Charcoal]1.mat
+  artifactKey: Guid(441c4d2b69694094ab77e46c051a3160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[0136_Charcoal]1.mat using Guid(441c4d2b69694094ab77e46c051a3160) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '94c4b89ff6d1a176cd2d02aca544a783') in 0.030931 seconds 
+  Import took 0.037299 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_Charcoal_1.mat
+  artifactKey: Guid(ff492528a56672a42934c02eb00d4fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-_Charcoal_1.mat using Guid(ff492528a56672a42934c02eb00d4fc7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e1c78e20143d353ce1f2b0515db651d') in 0.062081 seconds 
+  Import took 0.070243 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000632 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Black.mat
+  artifactKey: Guid(bc45a2f00dcf1ee47b89ef95a117c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Black.mat using Guid(bc45a2f00dcf1ee47b89ef95a117c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e18ddafcf55b60c4c4fd9747e1b6e32') in 0.055982 seconds 
+  Import took 0.066722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-dom_pt_straight_2800_2_1_1_1_1_1_1_1_1_1_2_2.mat
+  artifactKey: Guid(10348ac2dc6c8d046b7897ee85474a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-dom_pt_straight_2800_2_1_1_1_1_1_1_1_1_1_2_2.mat using Guid(10348ac2dc6c8d046b7897ee85474a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52191c75d9a8d7b7d188e46df327d6f5') in 0.065105 seconds 
+  Import took 0.073483 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-silvermetal.mat
+  artifactKey: Guid(8988dbc68697fce48a811db390e38aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/RAM-silvermetal.mat using Guid(8988dbc68697fce48a811db390e38aa3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14e4af0d7e571195c73518ffb430c7e4') in 0.040612 seconds 
+  Import took 0.049064 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Internal.mat
+  artifactKey: Guid(a87de731f6c704d46aac30daad91fbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/PowerSupply-AX1500i Internal.mat using Guid(a87de731f6c704d46aac30daad91fbd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea99e5391d835226bedf64a6aaca3453') in 0.041733 seconds 
+  Import took 0.047759 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_C11].mat
+  artifactKey: Guid(0ffe22f21cfbe80479becd19533071a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Motherboard-[Color_C11].mat using Guid(0ffe22f21cfbe80479becd19533071a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6de25d24d486bb5f102a8d60d4657cb8') in 0.026759 seconds 
+  Import took 0.031401 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M09].mat
+  artifactKey: Guid(f2cb05b458a382d40bba114fc435f09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/Headset-[Color M09].mat using Guid(f2cb05b458a382d40bba114fc435f09f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6216e2f86fbc627c83b808f83ce8d62') in 0.027217 seconds 
+  Import took 0.033030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-Inferior1.mat
+  artifactKey: Guid(22eab238a444240429a45004d85424df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Materials/GamerKeyboard-Inferior1.mat using Guid(22eab238a444240429a45004d85424df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '04d033e7d538db88904c2b49d5a22658') in 0.033917 seconds 
+  Import took 0.038133 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.584173 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/5e58556084d0ab810d218263ddf69f08.jpg
+  artifactKey: Guid(0d8c053346a62384785ad5a6fb2e8797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/5e58556084d0ab810d218263ddf69f08.jpg using Guid(0d8c053346a62384785ad5a6fb2e8797) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce0c5f0cc48cf9fc415211703f292436') in 0.025878 seconds 
+  Import took 0.030733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000357 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/Inferior1.jpg
+  artifactKey: Guid(063ebfdd89d2c6f4e851498b95ce5272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/Inferior1.jpg using Guid(063ebfdd89d2c6f4e851498b95ce5272) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9bca662addd0d3e071f4c9d64fccfa9c') in 0.015922 seconds 
+  Import took 0.021014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000742 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/eaef22cc9f76b9429a7113a31ab966b0.jpg
+  artifactKey: Guid(bd0e4c8b4dec37c4fbf4ce36bdd7838a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/eaef22cc9f76b9429a7113a31ab966b0.jpg using Guid(bd0e4c8b4dec37c4fbf4ce36bdd7838a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c957408d8fb1b90a11fc8452ef637593') in 0.022232 seconds 
+  Import took 0.030628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.jpg
+  artifactKey: Guid(fd67effd92b759c4a83be3a33725cd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/aigo-dr12-pro-3-1-double-ring-rgb-fan-hiffny-1811-17-Hiffny@2.jpg using Guid(fd67effd92b759c4a83be3a33725cd27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e91d70efb3c19d5c73d59a75580ebb9') in 0.019984 seconds 
+  Import took 0.025870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/2776e18bf2ab2119b9e1d8a2bf1e6ba1.jpg
+  artifactKey: Guid(c21e4192d569424469c4defc1a26dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/2776e18bf2ab2119b9e1d8a2bf1e6ba1.jpg using Guid(c21e4192d569424469c4defc1a26dc6e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52e6515a980da974bb84ba07ef310ebf') in 0.015473 seconds 
+  Import took 0.020516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/c6768015a0dc65b7f3f4e0e23ff12d09.png
+  artifactKey: Guid(dad5268ec7515e449856d49520fe7f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/c6768015a0dc65b7f3f4e0e23ff12d09.png using Guid(dad5268ec7515e449856d49520fe7f94) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd23168c123070ee15bb529344134fd7e') in 0.013553 seconds 
+  Import took 0.020383 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000205 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/f6db4f3d223b435f665c75f09224d2b6.jpg
+  artifactKey: Guid(7d7905befe230914588583c91b7c8edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/f6db4f3d223b435f665c75f09224d2b6.jpg using Guid(7d7905befe230914588583c91b7c8edd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '34073a171a4ac8c1be8e723492698ef0') in 0.013338 seconds 
+  Import took 0.017198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/3804723c6ce0206ec435fd72c6464aea.jpg
+  artifactKey: Guid(ef51eca6b93326344b1c3c247fae389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/3804723c6ce0206ec435fd72c6464aea.jpg using Guid(ef51eca6b93326344b1c3c247fae389e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7785378d4e3c4de63ed09cdfc3a125') in 0.016830 seconds 
+  Import took 0.021356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/312799329008e8cff102eba9b0e964d5.jpg
+  artifactKey: Guid(a93f765d99d93a44987cb4f1cf298f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/312799329008e8cff102eba9b0e964d5.jpg using Guid(a93f765d99d93a44987cb4f1cf298f49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03451396bec7fdfad5686e37b0c7280e') in 0.016475 seconds 
+  Import took 0.021921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000191 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/corsair logo nome.png
+  artifactKey: Guid(46bb28eafc2a5c849acaec6c7f9db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/corsair logo nome.png using Guid(46bb28eafc2a5c849acaec6c7f9db723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9a6ad1929fea5d8b7979b72c61b630b') in 0.013787 seconds 
+  Import took 0.019160 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/fa15d98d9cfa74d92ed6de6dd67fe9dd.png
+  artifactKey: Guid(3f5c111cee5777f4ba697a580e532f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/fa15d98d9cfa74d92ed6de6dd67fe9dd.png using Guid(3f5c111cee5777f4ba697a580e532f8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd97d0c0dc6cb3a483997c7fe2249c2f') in 0.014378 seconds 
+  Import took 0.020131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/a9ddfc98a199dfc835bbb9d11d87a24c.jpg
+  artifactKey: Guid(781bc4d4ad0833b4e80a7132058d2fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/a9ddfc98a199dfc835bbb9d11d87a24c.jpg using Guid(781bc4d4ad0833b4e80a7132058d2fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '811ae17c34e6baf8999a35ddd043be53') in 0.015695 seconds 
+  Import took 0.020501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/corsair logo simb.png
+  artifactKey: Guid(a34524795cf21f94783d6276f15cefff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/corsair logo simb.png using Guid(a34524795cf21f94783d6276f15cefff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '28da670950bc8acc95d7c795b232c09a') in 0.013270 seconds 
+  Import took 0.017314 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/b7cc5d6ca05a4249c8967f5423f12f44.jpg
+  artifactKey: Guid(64c7ac556bc229446ac3ab2b6ecd596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/b7cc5d6ca05a4249c8967f5423f12f44.jpg using Guid(64c7ac556bc229446ac3ab2b6ecd596b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '465effef4c75f5f49363590f55b7c378') in 0.015635 seconds 
+  Import took 0.021583 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/590604ffe8f312bf95115547e62bcd21.jpg
+  artifactKey: Guid(2843d600629110a4eb44c2eb0e1c25b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/590604ffe8f312bf95115547e62bcd21.jpg using Guid(2843d600629110a4eb44c2eb0e1c25b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b28a41e13de0b83139ebd376af7a061') in 0.012489 seconds 
+  Import took 0.018129 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000207 seconds.
+  path: Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/Amazon_Echo2_tint0x44CE47FF.jpg
+  artifactKey: Guid(73eddf1450f1afa4fb6158c0388ba36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Objeler/New Objeler/ComputerGaming/SKP/Textures/Amazon_Echo2_tint0x44CE47FF.jpg using Guid(73eddf1450f1afa4fb6158c0388ba36a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '034ee3da18f9df34fad1bea405188a1d') in 0.014953 seconds 
+  Import took 0.019787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 31.870337 seconds.
+  path: Assets/Content
+  artifactKey: Guid(46304160ec3baa743b35ac8d94ca913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Content using Guid(46304160ec3baa743b35ac8d94ca913e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70577e53f27c77e9f973d69bd0aa6de6') in 0.010493 seconds 
+  Import took 0.015979 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003578 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.031 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1032ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (48ms)
+		EndReloadAssembly (842ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (292ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (304ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (71ms)
+				ProcessInitializeOnLoadAttributes (212ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (4ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.86 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2036 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.8 MB.
+System memory in use after: 126.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2608.
+Total: 3.374000 ms (FindLiveObjects: 0.175100 ms CreateObjectMapping: 0.111000 ms MarkObjects: 2.714000 ms  DeleteObjects: 0.373100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003414 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.90 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Warning: Annotation not found!
+UnityEngine.StackTraceUtility:ExtractStackTrace ()
+UnityEditor.ProBuilder.EditorUtility:SetGizmoIconEnabled (System.Type,bool) (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs:575)
+UnityEditor.ProBuilder.HierarchyListener:.cctor () (at C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/HierarchyListener.cs:21)
+System.Runtime.CompilerServices.RuntimeHelpers:RunClassConstructor (System.RuntimeTypeHandle)
+UnityEditor.EditorAssemblies:ProcessInitializeOnLoadAttributes (System.Type[])
+
+[C:/Users/melih/Desktop/Erciyes 3D/My project/Library/PackageCache/com.unity.probuilder@5.0.3/Editor/EditorCore/EditorUtility.cs line 575]
+
+Mono: successfully reloaded assembly
+- Completed reload, in  1.215 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1215ms)
+		BeginReloadAssembly (112ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (32ms)
+		EndReloadAssembly (1035ms)
+			LoadAssemblies (81ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (315ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (502ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (120ms)
+				ProcessInitializeOnLoadAttributes (360ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (6ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2036 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 126.8 MB.
+System memory in use after: 126.5 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2610.
+Total: 3.617800 ms (FindLiveObjects: 0.178400 ms CreateObjectMapping: 0.079000 ms MarkObjects: 3.042600 ms  DeleteObjects: 0.317000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

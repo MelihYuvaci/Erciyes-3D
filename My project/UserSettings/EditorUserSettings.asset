@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!162 &1
+EditorUserSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 4
+  m_ConfigSettings:
+    RecentlyUsedScenePath-0:
+      value: 224247031146467604160d2f1f6c72151a121d6a0d3023701d281e38adc43135eda812ecea357129370bfb25
+      flags: 0
+    RecentlyUsedScenePath-1:
+      value: 224247031146466806170e2d086c6c1313191d6521292f3e1e2a183de7ae2136ebf32f
+      flags: 0
+    RecentlyUsedScenePath-2:
+      value: 22424703114646681d0f0f272a264b112927142b3f3c2f330e211c3af0d4353aeee205ecf3750c343615ec3d173b4f2afc031d12
+      flags: 0
+    RecentlyUsedScenePath-3:
+      value: 224247031146467a1f1a0531042a5c3d1314102b22212523620b0f32f6af073be7e933faa8182d3d2d4cfa320d2a18
+      flags: 0
+    RecentlyUsedScenePath-4:
+      value: 22424703114646780c1c4c241f2f5b1504583c2f212768252320092a
+      flags: 0
+    RecentlyUsedScenePath-5:
+      value: 22424703114646780c1c330e1f34102419140d39630b2722121d1230f7f37a2decee22f0
+      flags: 0
+    RecentlyUsedScenePath-6:
+      value: 22424703114646680e0b0227036c72151802563f22213229
+      flags: 0
+    RecentlyUsedScenePath-7:
+      value: 22424703114646680e0b0227036c6c111b07142f1f2b233e2867083debf42d
+      flags: 0
+    vcSharedLogLevel:
+      value: 0d5e400f0650
+      flags: 0
+  m_VCAutomaticAdd: 1
+  m_VCDebugCom: 0
+  m_VCDebugCmd: 0
+  m_VCDebugOut: 0
+  m_SemanticMergeMode: 2
+  m_VCShowFailedCheckout: 1
+  m_VCOverwriteFailedCheckoutAssets: 1
+  m_VCProjectOverlayIcons: 1
+  m_VCHierarchyOverlayIcons: 1
+  m_VCOtherOverlayIcons: 1
+  m_VCAllowAsyncUpdate: 1
